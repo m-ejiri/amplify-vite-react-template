@@ -1,6 +1,0 @@
-{
-  "context": {
-    "@aws-cdk/core:bootstrapQualifier": "std2025",
-    "@aws-cdk/core:bootstrapStackName": "CDKToolkit-std"
-  }
-}
